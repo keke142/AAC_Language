@@ -1,29 +1,25 @@
 # AAC messages configuration file
 
 # Prefix (wooooo yeah)
-prefix: "&6[AAC] &r> &6"
+prefix: "&6[HyperNoCheat] &r> &6"
 
 # Spam messages
-spam_too_fast: "You can't chat that fast!"
-spam_slow_chat: "Please slow down chat"
-spam_repeat: "Please refrain from repeating yourself"
-spam_repeat_other: "You can't repeat that"
+spam_too_fast: "Vous ne pouvez pas discuter si vite!"
+spam_slow_chat: "S'il vous plaît ralentissez la fréquence de vos messages."
+spam_repeat: "S'il vous plaît éviter de vous répéter."
+spam_repeat_other: "Vous ne pouvez pas répéter ceci."
 
 # Command messages
-aac_kick_broadcast: " was kicked for hacking."
-ban_message: "You have been banned for hacking on this server."
+aac_kick_broadcast: " a été exclu pour avoir utiliser un cheat!"
+ban_message: "Vous avez été banni de ce serveur pour avoir utiliser des cheats."
 
-relog_message: "Wait a few seconds before logging back in."
+relog_message: "Attendez quelques secondes avant de vous connecter."
 
 # Fastbow
-too_many_shots: "You're firing shots too quickly. Please wait 5 seconds before using your bow again."
-allow_bow: "You may now use your bow again"
+too_many_shots: "Vous tirez trop rapidement. S'il vous plaît attendez 5 secondes avant d'utiliser à nouveau votre arc."
+allow_bow: "Vous pouvez de nouveau utiliser votre arc."
 
 # Staff chat
 prefix_to_speak: "@"
 # This will also be used for the notifications from aacstaffnotify in the config
-format: "&7[&6AAC&7] &2[{sender}] &r"
-
-# Combat logging
-killed_for_logging: "You were killed for combat logging. Don't do it."
-logging_broadcast: "{player} was killed for combat logging. Don't do it."
+format: "&7[&6HyperNoCheat&7] &2[{sender}] &r"
